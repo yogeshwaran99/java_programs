@@ -1,5 +1,3 @@
-package com.dev;
-
 import java.util.Scanner;
 
 public class MyFirstExample {

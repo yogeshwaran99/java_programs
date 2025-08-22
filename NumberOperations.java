@@ -27,7 +27,7 @@ public class NumberOperations {
     }
 
     // 4. Print numbers 10 to 1 without increment operator
-    int i=10;
+    
     while (n>=1) {
       System.out.println(n);
       n=n-1;
